@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.php",
+			"settings":
+			{
+				"buffer_size": 3971,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacakage",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/application",
+		"/C/Sites/application/app",
+		"/C/Sites/application/config",
+		"/C/Sites/application/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/Croirefly/Downloads/cmder/README.md",
+		"/C/Users/Croirefly/Downloads/Mining/zec0.3.4b/miner.cfg",
+		"/C/Program Files (x86)/MSI Afterburner/MSIAfterburner.cfg",
+		"/C/Users/Croirefly/Downloads/test.jsf",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Controllers/Health.cs",
+		"/C/Users/Croirefly/Downloads/stratis.conf",
+		"/C/Users/Croirefly/Downloads/eqm_v1.0.4c_Win64/LICENSE_MBEVAND",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Characters/Being.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/README.md",
+		"/C/Users/Croirefly/Documents/Unity/2dPlatformer/Assets/Parallaxing.cs",
+		"/C/Users/Croirefly/Documents/Unity/2dPlatformer/Assets/Tiling.cs",
+		"/C/Users/Croirefly/Documents/Unity/2dPlatformer/Assets/HoveringTexture.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/PlayerController.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/Ctrl.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/CharSelectCtrl.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/PlayerManager.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/MainMenuCtrl.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Dialogue Cut/Assets/__Scripts/Controllers/TalkScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Dialogue Cut/Assets/__Scripts/Controllers/Ctrl.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/Interface/ButtonManager.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Deck Slots Cut/Assets/__Scripts/Controllers/Health.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Deck Slots Cut/Assets/__Scripts/UI/BeingStatsPanel.cs",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/FireGroundSpell.cs",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/Mage.cs",
+		"/C/Users/Croirefly/Downloads/cemu174cXXX/gameProfiles/00050000101c9500.ini",
+		"/C/Users/Croirefly/Downloads/00050000101c9400.ini",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/Editor/SpriteImportProcessor.cs",
+		"/C/Users/Croirefly/Downloads/jnus/config",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/Gun.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/WeaponScripts/BoomerGunScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/SetAudioVolume.cs",
+		"/C/Users/Croirefly/Downloads/EverWingHax-master/README.md",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/TalkScript.cs",
+		"/D/Other/Programs/GhostMouse/feTutorialX.gms",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/OldTRyss/TileSave - Before Worlds/Assets/__Scripts/DeckEditor.cs",
+		"/D/Other/Programs/padpyght-master/README.md",
+		"/C/Users/Croirefly/Downloads/imgur-album-downloader-master/readme.md",
+		"/C/xampp/Portfolio/index.html",
+		"/C/Program Files (x86)/Deezloader/app.js",
+		"/C/Users/Croirefly/Downloads/Deezloader-2.0.3-win/app.js",
+		"/C/Users/Croirefly/Downloads/AudioSwitch-master/README.md",
+		"/D/Other/Misc/Pokr/octopussytowercode.txt",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Enemy_2.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Apiopa/Assets/PlayerController.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Apiopa2/Assets/PlayerController.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Enemy.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/XML/Rewards.xml",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Enemy_3.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Enemy_4.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/2D Edge Fire/Assets/FireParticleEffect.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/2D Edge Fire/Assets/FireParticle.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Attacks/Projectile.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Controllers/Moveable.cs",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Dialogue Cut/Assets/__Scripts/Controllers/DeckEditor.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/InControl/Examples/Bindings/BindingsExample.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/PlayerActions.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/InControl/Examples/Bindings/PlayerActions.cs",
+		"/C/Users/Croirefly/Documents/Unity/controlsTest/Assets/InControl/Examples/Basic/BasicExample.cs",
+		"/C/Users/Croirefly/Documents/Unity/AstralGun/Assets/__Scripts/Player.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/InControl/Examples/MultiplayerBasic/PlayerManager.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/XML/Zones.xml",
+		"/C/Users/Croirefly/Documents/Unity/zOld Stuff/Tryss Before Dialogue Cut/Assets/__Scripts/Attacks/Projectile.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/XML/TileFields.xml",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/LayoutTiles.cs",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/Tile.cs",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/ProtoTools/Utils.cs",
+		"/C/Users/Croirefly/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/C/Program Files (x86)/Steam/steamapps/common/Battlerite/ip.sjson",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/Resources/Rooms.xml",
+		"/C/Users/Croirefly/Documents/Unity/OmegaMage-Team5-Final-master/Assets/__Scripts/ProtoTools/PT_Mover.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - before state change/Assets/__Scripts/Utils.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - before state change/Assets/__Scripts/Being_Characters/Player.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - before state change/Assets/__Scripts/Being_Characters/Moveable.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - Copy/Assets/__Scripts/Utils.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - before state change/Assets/__Scripts/Being_Characters/Enemy.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss - Copy/Assets/__Scripts/Being_Characters/Being.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Shield.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/SelfDestructScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Projectile.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Preloader.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/PhaserScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Parallax.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Main.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Hero.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Enemy_1.cs",
+		"/C/Users/Croirefly/Documents/Unity/MissionDemolitionPrototype/Assets/__Scripts/ProjectileLine.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss pixperf/Assets/__Scripts/TileScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss pixperf/Assets/__Scripts/Spells/HookGrab.cs",
+		"/C/xampp/HCI/js/script.js",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Spells/FireStream.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss pixperf/Assets/__Scripts/Being_Characters/Being.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/Weapon.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/DirectFollowScript.cs",
+		"/C/Users/Croirefly/Documents/Unity/SpaceSHMUPPrototype/Assets/__Scripts/PowerUp.cs",
+		"/C/Users/Croirefly/Documents/Unity/2dPlatformer/Assets/Sample Assets/2D/Scripts/PlatformerCharacter2D.cs",
+		"/C/Users/Croirefly/Documents/Unity/TileSave - Before Worlds/Assets/__Scripts/DeckEditor.cs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Being/Player.cs",
+		"/C/Users/Croirefly/AppData/Roaming/MonoDevelop-Unity-5.0/Config/MonoDevelopProperties.xml",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Tryss.sublime-project",
+		"/C/Users/Croirefly/Google Drive/Documents/mono-kai.json",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assets/__Scripts/Spells/Spell.cs",
+		"/C/Users/Croirefly/AppData/Roaming/Sublime Text 3/Packages/User/UnityC#.sublime-settings",
+		"/C/Users/Croirefly/AppData/Roaming/Sublime Text 3/Installed Packages/Unity3D.sublime-package",
+		"/C/Users/Croirefly/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Croirefly/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Assembly-UnityScript.unityproj",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/Tryss.userprefs",
+		"/C/Users/Croirefly/Documents/Unity/Tryss/TileSave.userprefs",
+		"/C/xampp/PortfolioNeo/index.html",
+		"/C/xampp/PortfolioNeo/_/components/sass/_layout.scss",
+		"/C/xampp/PortfolioNeoF/_/components/sass/_base.scss",
+		"/C/xampp/PortfolioNeoF/index.html",
+		"/C/xampp/AstralGunPK/data.xml",
+		"/C/xampp/AstralGunPK/index.php",
+		"/C/xampp/PortfolioNeoF/_/components/js/script.js",
+		"/C/xampp/PortfolioNeoF/_/components/sass/_layout.scss",
+		"/C/Users/Croirefly/Downloads/[131031] [MangaGamer] Demon Master Chris/renpy/gl/__init__.py",
+		"/C/xampp/PortfolioNeoF/_/components/sass/styles.scss",
+		"/C/xampp/PortfolioNeoF/_/components/sass/_variables.scss",
+		"/C/xampp/PortfolioNeoF/_/components/sass/_modules.scss",
+		"/C/xampp/PortfolioNeoF/_/components/sass/_mixins.scss",
+		"/C/xampp/PortfolioNeoF/_/js/script.js",
+		"/C/xampp/Angular/index.html",
+		"/C/xampp/Angular/_/components/sass/_layout.scss",
+		"/C/xampp/sassycompass/_/components/sass/_layout.scss",
+		"/C/xampp/Angular/_/components/sass/_base.scss",
+		"/C/xampp/Angular/_/components/sass/_variables.scss",
+		"/C/xampp/PortfolioNeo/_/components/sass/_base.scss"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"32",
+			"64",
+			"58",
+			"64",
+			"shake",
+			"volume",
+			"chance=\"1\"",
+			"1",
+			"X",
+			"4",
+			"0",
+			"sp",
+			"10",
+			"0",
+			"2",
+			"amount",
+			"actions",
+			"Dialo",
+			"weight",
+			"field",
+			"OOOOO",
+			">\n",
+			"idle",
+			"blaster",
+			"artifact",
+			"reward",
+			"rewards",
+			"enemy",
+			"dialog",
+			"var",
+			"prefix",
+			"dropRate",
+			"3",
+			"img",
+			"container",
+			".content",
+			"medium",
+			"$medium",
+			"analytics",
+			"analy",
+			"line",
+			"animator",
+			"string",
+			"room",
+			"floor",
+			"checkbox",
+			"16px",
+			"clear",
+			"br",
+			"clear",
+			"span",
+			"ralewa",
+			"ralew",
+			"raleway",
+			"horizontal",
+			".nav",
+			"border",
+			"-webkit",
+			"-o-",
+			"ms-transition",
+			"ms-transit",
+			"image",
+			"import",
+			"br",
+			"loader",
+			"html",
+			"shadow",
+			"5rem",
+			"pager-link",
+			"radius",
+			"border-radisu",
+			"20",
+			"page",
+			"listStyle",
+			"float",
+			"float: none",
+			"none",
+			"float: none",
+			"li",
+			".content",
+			"feat",
+			"text-shadow",
+			"presskit",
+			"color",
+			"center",
+			"script",
+			"shadow",
+			"list",
+			"shadow",
+			"text-decor",
+			"\n\t\t\t//display: none;",
+			"1200",
+			"max",
+			"content",
+			".content",
+			"h1",
+			"scroll",
+			"invoke",
+			"current",
+			"aBlast",
+			"aShot",
+			"cross",
+			"crossShotBlastL",
+			"features",
+			"projects",
+			"release",
+			"ltbp",
+			"for",
+			"#toggle",
+			"playerTwoCheck",
+			"right",
+			"public",
+			"format",
+			"camMove",
+			"text",
+			"bool",
+			"Level",
+			"speed",
+			"canvas",
+			">'\n",
+			"key",
+			"winText",
+			"win",
+			"anchor",
+			"Position",
+			"Vector3",
+			"levelSele",
+			"-25"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2464,
+								2473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "application.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Croirefly\\Documents\\Unity\\Tryss\\Tryss.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
